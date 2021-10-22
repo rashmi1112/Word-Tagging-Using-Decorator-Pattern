@@ -1,0 +1,15 @@
+# Default ignored files
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.rar
+hs_err_pid*
+.idea/
+csx42-summer-2020-assign5-rashmi1113.iml
+Assignment5.iml
