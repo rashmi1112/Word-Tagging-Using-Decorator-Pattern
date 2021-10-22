@@ -1,4 +1,5 @@
-# CSX42: Assignment 5
+# Word-Tagging-Using-Decorator-Pattern
+
 **Name:** Rashmi A.Badadale
 
 -----------------------------------------------------------------------
@@ -44,14 +45,3 @@ Datastructures used in the assignment:
 3. Queue<String> : The queue is used for storing the strings from the Keywords and the Misspelled words. This queue is iterated over to replace all occurences of these words with corresponding tags. 
 
 4. StringBuilder : The StringBuilder is used to store the input provided in the input file. The time complexity for populating the input into the StringBuilder is O(N) since every loop leads to insertion of one word into the String builder.  A String  builder is also used to store the output result and then passed on to an output file through a buffered writer.  
-
-
-## Academic Honesty statement:
-
-"I have done this assignment completely on my own. I have not copied
-it, nor have I given my solution to anyone else. I understand that if
-I am involved in plagiarism or cheating an official form will be
-submitted to the Academic Honesty Committee of the Watson School to
-determine the action that needs to be taken. "
-
-Date: [08/08/2020]
